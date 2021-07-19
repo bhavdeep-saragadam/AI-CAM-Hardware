@@ -1,5 +1,8 @@
 # AI-CAM-Hardware
 
+
+<h2>There Is Nothing There Because The Project Will Be Starting In The Next Month</h2>
+
 This is just like the software version but I I feel like I am going to make this more wide and let it have more features...
 
 
@@ -15,7 +18,6 @@ ALL OF THIS IDEA MIGHT BE LITTLE TOO MUCH.. But it would like a trail and error 
 I Also Set Up Disccosions so if you have anyother Ideas I would be happy to consider them...
 
 
-<h1>The Project Will Be Starting In The Next Month</h1>
 
 BTW The name will probably change knowing that it is already taken.
 
