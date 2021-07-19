@@ -13,7 +13,7 @@ I also am going to be making a street roaming robot to make it learn about the d
 So The Robot is going to store the video clips and the images to the cloud.. 
 
 
-ALL OF THIS IDEA MIGHT BE LITTLE TOO MUCH.. But it would like a trail and error expreince and I would not regret anything even if the robot messes up or does not go by plan. 
+ALL OF THIS IDEA MIGHT BE LITTLE TOO MUCH.. But it would like a trail and error experience and I would not regret anything even if the robot messes up or does not go by plan. 
 
 I Also Set Up Disccosions so if you have anyother Ideas I would be happy to consider them...
 
